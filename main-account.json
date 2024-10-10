@@ -1,0 +1,17 @@
+{
+  "name": "main account",
+  "movements": [
+    {
+      "amount": 1000,
+      "description": "primo movimento per demo",
+      "date": "2024-09-01",
+      "tags": ["#demo", "#saldo"]
+    },
+    {
+      "amount": -1250,
+      "description": "altro movimento demo",
+      "date": "2024-09-02",
+      "tags": ["demo", "tasse"]
+    }
+  ]
+}
