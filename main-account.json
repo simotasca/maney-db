@@ -12,6 +12,384 @@
       "description": "altro movimento demo",
       "date": "2024-09-02",
       "tags": ["demo", "tasse"]
+    },
+    {
+      "amount": -1770.9,
+      "description": "laborum laboris ullamco elit",
+      "date": "2019-07-20",
+      "tags": ["pariatur", "sint", "quis", "elit", "Lorem", "ea", "aliqua"]
+    },
+    {
+      "amount": -1994.53,
+      "description": "ex Lorem esse reprehenderit",
+      "date": "2024-01-10",
+      "tags": [
+        "cupidatat",
+        "veniam",
+        "ullamco",
+        "voluptate",
+        "enim",
+        "sit",
+        "magna"
+      ]
+    },
+    {
+      "amount": 2728.52,
+      "description": "veniam anim tempor irure",
+      "date": "2019-12-10",
+      "tags": [
+        "exercitation",
+        "dolore",
+        "tempor",
+        "deserunt",
+        "magna",
+        "in",
+        "et"
+      ]
+    },
+    {
+      "amount": -3652.46,
+      "description": "fugiat consequat ad irure",
+      "date": "2016-03-23",
+      "tags": ["sit", "esse", "minim", "est", "minim", "commodo", "amet"]
+    },
+    {
+      "amount": -1250.54,
+      "description": "velit cillum proident sint",
+      "date": "2016-10-18",
+      "tags": ["eiusmod", "eu", "eu", "cupidatat", "enim", "esse", "labore"]
+    },
+    {
+      "amount": 850.28,
+      "description": "cupidatat excepteur consectetur pariatur",
+      "date": "2024-06-11",
+      "tags": [
+        "nulla",
+        "pariatur",
+        "incididunt",
+        "proident",
+        "reprehenderit",
+        "amet",
+        "culpa"
+      ]
+    },
+    {
+      "amount": 1302.15,
+      "description": "commodo sunt adipisicing et",
+      "date": "2022-10-03",
+      "tags": ["labore", "enim", "quis", "aute", "enim", "fugiat", "magna"]
+    },
+    {
+      "amount": -376.05,
+      "description": "laboris sit qui qui",
+      "date": "2017-02-16",
+      "tags": ["consectetur", "ut", "minim", "sunt", "velit", "laboris", "aute"]
+    },
+    {
+      "amount": 371.26,
+      "description": "do ex consectetur cupidatat",
+      "date": "2019-06-29",
+      "tags": [
+        "reprehenderit",
+        "magna",
+        "nulla",
+        "laborum",
+        "occaecat",
+        "consequat",
+        "adipisicing"
+      ]
+    },
+    {
+      "amount": 1389.8,
+      "description": "ipsum nisi mollit est",
+      "date": "2017-11-29",
+      "tags": ["laborum", "commodo", "elit", "officia", "cillum", "ea", "esse"]
+    },
+    {
+      "amount": 1920.66,
+      "description": "incididunt occaecat exercitation non",
+      "date": "2023-06-06",
+      "tags": [
+        "consequat",
+        "reprehenderit",
+        "incididunt",
+        "nostrud",
+        "ad",
+        "et",
+        "qui"
+      ]
+    },
+    {
+      "amount": 1058.58,
+      "description": "nulla aliquip proident aliquip",
+      "date": "2014-12-27",
+      "tags": ["do", "eu", "tempor", "ex", "non", "deserunt", "eiusmod"]
+    },
+    {
+      "amount": 3433.75,
+      "description": "labore consectetur reprehenderit voluptate",
+      "date": "2015-10-11",
+      "tags": [
+        "consequat",
+        "deserunt",
+        "deserunt",
+        "pariatur",
+        "duis",
+        "aute",
+        "anim"
+      ]
+    },
+    {
+      "amount": 481.12,
+      "description": "incididunt veniam quis irure",
+      "date": "2020-02-19",
+      "tags": [
+        "exercitation",
+        "do",
+        "elit",
+        "incididunt",
+        "commodo",
+        "ipsum",
+        "tempor"
+      ]
+    },
+    {
+      "amount": 3775.41,
+      "description": "elit anim consequat elit",
+      "date": "2021-11-04",
+      "tags": ["magna", "veniam", "cillum", "cillum", "sit", "irure", "eu"]
+    },
+    {
+      "amount": -157.2,
+      "description": "magna Lorem dolor veniam",
+      "date": "2021-08-01",
+      "tags": ["anim", "elit", "enim", "occaecat", "aute", "ex", "aliqua"]
+    },
+    {
+      "amount": -2167.34,
+      "description": "esse exercitation qui velit",
+      "date": "2021-08-07",
+      "tags": ["magna", "labore", "eu", "dolor", "dolor", "anim", "aliquip"]
+    },
+    {
+      "amount": -1788.16,
+      "description": "labore ea aliqua amet",
+      "date": "2021-08-06",
+      "tags": ["dolore", "ad", "fugiat", "sunt", "ipsum", "cupidatat", "sunt"]
+    },
+    {
+      "amount": -2899.01,
+      "description": "eiusmod nisi eu nulla",
+      "date": "2017-11-22",
+      "tags": ["aliqua", "tempor", "non", "veniam", "est", "aute", "enim"]
+    },
+    {
+      "amount": 1631.01,
+      "description": "est cillum aliqua sunt",
+      "date": "2017-11-24",
+      "tags": ["Lorem", "ex", "et", "deserunt", "nisi", "ad", "voluptate"]
+    },
+    {
+      "amount": -2369.45,
+      "description": "proident magna proident non",
+      "date": "2021-07-18",
+      "tags": [
+        "eiusmod",
+        "fugiat",
+        "officia",
+        "culpa",
+        "deserunt",
+        "elit",
+        "nulla"
+      ]
+    },
+    {
+      "amount": -2573.67,
+      "description": "excepteur officia fugiat ut",
+      "date": "2014-01-30",
+      "tags": [
+        "consequat",
+        "eiusmod",
+        "exercitation",
+        "veniam",
+        "adipisicing",
+        "amet",
+        "ut"
+      ]
+    },
+    {
+      "amount": 2291.58,
+      "description": "aute cupidatat pariatur laboris",
+      "date": "2023-03-03",
+      "tags": [
+        "deserunt",
+        "do",
+        "deserunt",
+        "aliquip",
+        "proident",
+        "culpa",
+        "nostrud"
+      ]
+    },
+    {
+      "amount": 2012.55,
+      "description": "nulla elit anim excepteur",
+      "date": "2019-06-22",
+      "tags": [
+        "irure",
+        "excepteur",
+        "irure",
+        "nostrud",
+        "sit",
+        "enim",
+        "veniam"
+      ]
+    },
+    {
+      "amount": 3338.75,
+      "description": "duis elit reprehenderit irure",
+      "date": "2014-01-20",
+      "tags": ["excepteur", "sint", "minim", "anim", "amet", "excepteur", "sit"]
+    },
+    {
+      "amount": 1730.93,
+      "description": "nostrud est officia ipsum",
+      "date": "2024-06-04",
+      "tags": ["amet", "quis", "occaecat", "commodo", "id", "pariatur", "elit"]
+    },
+    {
+      "amount": -1867.54,
+      "description": "fugiat fugiat est anim",
+      "date": "2020-09-23",
+      "tags": ["dolor", "enim", "voluptate", "aute", "nostrud", "qui", "sint"]
+    },
+    {
+      "amount": 1740.26,
+      "description": "dolore culpa aute mollit",
+      "date": "2015-03-02",
+      "tags": ["cupidatat", "et", "sunt", "excepteur", "ut", "sint", "do"]
+    },
+    {
+      "amount": 2702.72,
+      "description": "ex magna aute et",
+      "date": "2019-09-25",
+      "tags": ["fugiat", "cupidatat", "laborum", "sit", "elit", "esse", "enim"]
+    },
+    {
+      "amount": -1858.18,
+      "description": "mollit et exercitation sunt",
+      "date": "2021-05-12",
+      "tags": [
+        "in",
+        "laboris",
+        "consequat",
+        "excepteur",
+        "ex",
+        "incididunt",
+        "magna"
+      ]
+    },
+    {
+      "amount": 1248.62,
+      "description": "mollit do minim non",
+      "date": "2017-07-17",
+      "tags": ["dolore", "aliqua", "ut", "id", "est", "pariatur", "commodo"]
+    },
+    {
+      "amount": 3631.83,
+      "description": "irure eiusmod veniam non",
+      "date": "2016-07-21",
+      "tags": ["nostrud", "dolor", "mollit", "do", "ea", "eiusmod", "veniam"]
+    },
+    {
+      "amount": 2621.35,
+      "description": "pariatur irure consectetur labore",
+      "date": "2024-02-05",
+      "tags": [
+        "ullamco",
+        "officia",
+        "qui",
+        "officia",
+        "eiusmod",
+        "aute",
+        "nisi"
+      ]
+    },
+    {
+      "amount": -1528.86,
+      "description": "nisi aliqua enim non",
+      "date": "2024-05-15",
+      "tags": ["ex", "adipisicing", "amet", "amet", "occaecat", "aute", "nulla"]
+    },
+    {
+      "amount": 1893.43,
+      "description": "eu Lorem non reprehenderit",
+      "date": "2020-05-04",
+      "tags": [
+        "eiusmod",
+        "voluptate",
+        "fugiat",
+        "id",
+        "ut",
+        "veniam",
+        "voluptate"
+      ]
+    },
+    {
+      "amount": 1130.45,
+      "description": "magna ullamco veniam officia",
+      "date": "2023-12-06",
+      "tags": [
+        "in",
+        "tempor",
+        "laborum",
+        "ipsum",
+        "nulla",
+        "reprehenderit",
+        "cillum"
+      ]
+    },
+    {
+      "amount": -2541.07,
+      "description": "qui ad labore duis",
+      "date": "2022-06-10",
+      "tags": [
+        "labore",
+        "eiusmod",
+        "mollit",
+        "commodo",
+        "pariatur",
+        "aliqua",
+        "commodo"
+      ]
+    },
+    {
+      "amount": -765.65,
+      "description": "fugiat incididunt sint ipsum",
+      "date": "2015-09-08",
+      "tags": [
+        "dolor",
+        "incididunt",
+        "sunt",
+        "anim",
+        "irure",
+        "commodo",
+        "incididunt"
+      ]
+    },
+    {
+      "amount": 2704.55,
+      "description": "elit aliqua ipsum culpa",
+      "date": "2024-02-15",
+      "tags": [
+        "sunt",
+        "culpa",
+        "nisi",
+        "ullamco",
+        "ullamco",
+        "ipsum",
+        "aliquip"
+      ]
     }
   ]
 }
