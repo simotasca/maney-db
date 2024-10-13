@@ -16,18 +16,18 @@
       "name": "main",
       "movements": [
         {
-          "id": "B4Rfnap8Bc2GbPRNj5ah",
-          "amount": -1500,
-          "description": "#risparmi_alshdsslakdhfasd: investimento per il futuro",
-          "tags": ["risparmi"],
-          "date": "2024-12-15"
-        },
-        {
           "id": "Y4jfyib2Bf6GbQFJl5rx",
           "amount": -1500,
           "description": "debito mamma",
           "tags": ["varie"],
           "date": "2024-12-31"
+        },
+        {
+          "id": "B4Rfnap8Bc2GbPRNj5ah",
+          "amount": -1500,
+          "description": "#risparmi_alshdsslakdhfasd: investimento per il futuro",
+          "tags": ["risparmi"],
+          "date": "2024-12-15"
         },
         {
           "id": "2bCaznT910k8FUvPCLfY",
