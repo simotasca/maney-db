@@ -1,8 +1,27 @@
 {
   "accounts": [
     {
+      "name": "risparmi",
+      "movements": [
+        {
+          "id": "alshdsslakdhfasd",
+          "amount": 1500,
+          "description": "#main_B4Rfnap8Bc2GbPRNj5ah: investimento per il futuro",
+          "tags": ["risparmi"],
+          "date": "2024-12-15"
+        }
+      ]
+    },
+    {
       "name": "main",
       "movements": [
+        {
+          "id": "B4Rfnap8Bc2GbPRNj5ah",
+          "amount": -1500,
+          "description": "#risparmi_alshdsslakdhfasd: investimento per il futuro",
+          "tags": ["risparmi"],
+          "date": "2024-12-15"
+        },
         {
           "id": "Y4jfyib2Bf6GbQFJl5rx",
           "amount": -1500,
