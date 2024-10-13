@@ -23,13 +23,6 @@
           "date": "2024-12-31"
         },
         {
-          "id": "B4Rfnap8Bc2GbPRNj5ah",
-          "amount": -1500,
-          "description": "#risparmi_alshdsslakdhfasd: investimento per il futuro",
-          "tags": ["risparmi"],
-          "date": "2024-12-15"
-        },
-        {
           "id": "2bCaznT910k8FUvPCLfY",
           "amount": -1200,
           "description": "spese dicembre gapassel",
@@ -63,6 +56,13 @@
           "description": "sviluppo chabad",
           "tags": ["euk", "lavoro"],
           "date": "2024-12-20"
+        },
+        {
+          "id": "B4Rfnap8Bc2GbPRNj5ah",
+          "amount": -1500,
+          "description": "#risparmi_alshdsslakdhfasd: investimento per il futuro",
+          "tags": ["risparmi"],
+          "date": "2024-12-15"
         },
         {
           "id": "vHAhFa3r1ENpTXlYDTZm",
